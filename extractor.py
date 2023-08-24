@@ -27,7 +27,7 @@ def byte_mapping(n):
   lower = n % 256
   upper = n // 256
   if upper not in start_points:
-    raise "This token (%s) has a terrible disease; she must come with me immediately. Contact me if this error occurs." % hex(n)
+    raise Exception("This token (%s) has a terrible disease; she must come with me immediately. Contact me if this error occurs." % hex(n))
   else:
     return start_points[upper] + 3 * lower
 
