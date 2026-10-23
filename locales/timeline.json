@@ -1,0 +1,160 @@
+{
+  "policy": "Format 1.0 follows token-table lineage, not calendar release order. Built-in French ROM data starts at the supplied model/OS snapshots. App profiles select the latest recovered compatible localizer for each generation; independently installable older app revisions and prototypes remain in the extraction evidence and do not receive invented OS boundaries.",
+  "profiles": [
+    {
+      "model": "TI-82ST",
+      "os_version": "1.11",
+      "evidence": "English continuation of the TI-83 token-table lineage; the supplied ROM is compared with TI-83 1.10 as a native reference.",
+      "apps": {}
+    },
+    {
+      "model": "TI-82ST.fr",
+      "os_version": "1.11fr7",
+      "evidence": "Built-in French token strings from the supplied ROM, not an installable localization app. This later-released TI-83 derivative precedes the Plus models in token-table lineage only; no earlier French ROM revision is inferred.",
+      "apps": {},
+      "roms": {
+        "fr": "a01ca3474537b32d3e461c85baab043bb50399e15961428319d2fc8cde593f3f"
+      }
+    },
+    {
+      "model": "TI-76.fr",
+      "os_version": "1.00fr5",
+      "evidence": "Built-in French token strings from the supplied TI-76.fr ROM, continuing the TI-82 Stats.fr branch. Model lineage takes precedence over its lower numeric OS version and its calendar release date.",
+      "apps": {},
+      "roms": {
+        "fr": "91c260591ed29c36831491a85fab0115752075c726467382ec3ac44f9cbeda4e"
+      }
+    },
+    {
+      "model": "TI-83+",
+      "os_version": "0.103",
+      "evidence": "Earliest existing TI-83 Plus boundary in the sheet. The French ROMs belong to the separate TI-83 derivative branch and do not supply translations for early Plus OS versions.",
+      "apps": {}
+    },
+    {
+      "model": "TI-83+",
+      "os_version": "1.00",
+      "evidence": "Latest recovered app for each TI-83 Plus language, usable on production OS 1.00; these apps have no minimum OS gate. This is a compatibility snapshot, not a claim that app 1.02 shipped with OS 1.00.",
+      "apps": {
+        "da": "585a99521dd496fd2f45d2b406479e81f095a12b997bbff8cd2b85e8a0620438",
+        "de": "0bff23243fe8ddb2b963981b19fae36892ccd2a07c1360c06cf7e2577159910b",
+        "es": "6ddac035ad56b74f710bb6c7d34797d5ab80c56aaa9e2f518e0388a9ab79c2fb",
+        "fi": "481d899c9727efe5e3d8689d28ec1fd07d3468b5f96ed89211da4001ac706a4d",
+        "fr": "ebbe5051dbe30c73fd7eae71845e486a51c733df504b34e451918e564c70d781",
+        "hu": "cfe90d37a25c4092f5f8f5af2b2965446b5e1757c4d843612bae78674e4a66aa",
+        "it": "f61095857c252231a5a4f023f1a2145e8d45113d5f81b69e3dff75d7b4086b5a",
+        "nl": "abd8e784fe170f588f3292bd2407a55942a6efdd908a68fa4ef46cca6a9189d0",
+        "no": "ce6b755b7272068dabf34bc183adbd662a6d24f06ed6ae6df8acde23bb6e0583",
+        "pl": "8b8b7b4a27dad72b97a628b34aa276dd358119778efee81c31d53423f4add4cd",
+        "pt": "3d9cc881a9adf618bbea19e262041c99f99597048dbc578a4c6cb671aeb6b564",
+        "sv": "7b5a4a1c696b2cc7ece011abbc56d8b59f1d2f809c1c2891826ee6927f7454ad"
+      }
+    },
+    {
+      "model": "TI-84+",
+      "os_version": "0.01",
+      "evidence": "The TI-83 Plus and TI-84 Plus localizer binaries are not interchangeable; no applicable TI-84 Plus app was recovered below the next profile minimum.",
+      "apps": {}
+    },
+    {
+      "model": "TI-84+",
+      "os_version": "2.31",
+      "evidence": "App 2.40 startup compares GetBaseVer binary major/minor to 0x021F and accepts NC. Binary minor verified in an actual 2.55 ROM: GetBaseVer returns A=2, B=55. The UI asks for OS 2.40, but the machine gate accepts 2.31.",
+      "apps": {
+        "da": "c43f2103bb50e0049cc26f7fea83ca4277267a0af9823d5b157cb3958700ae0c",
+        "de": "89523e0ae3a33732fbd9379d3a0e772fb45adadc6343042382cc1ea29033c9fa",
+        "es": "719ed3bc9fbb4953e968794d2491243b6c0a7ac6078aeef3bdb6d268b30d0bf0",
+        "fi": "f7e758ba1a2d1cdac4acd5e0eb734e2e3e03d1b02af8842522c35b7d14437f7b",
+        "fr": "d09c94b2ab5912beb1ad2633039919c7f0c925355161c85f017a8563945e8829",
+        "it": "de1014c579973294c1a91e78e60bcd272eb85c6ab4e8a5c030a3b904566fa219",
+        "nl": "a6ac3a3f70c8b6186c586296c82b8e68cf2ff459e79c651a09910a43023a3702",
+        "no": "00b78ebf6ac6124e19cd4ddd4b272e1a61730b731d766bbbc8de2994b6874e96",
+        "pt": "7344437ceb7efd0928ad08264e78a16dad6b65207e0086d517480570829d8fd6",
+        "sv": "bcf4526287c38fd091578766c114cb186af9d6cc185953634c4095efb33505ec"
+      }
+    },
+    {
+      "model": "TI-84+CSE",
+      "os_version": "4.0",
+      "evidence": "CSE app 4.0 at the model production boundary.",
+      "apps": {
+        "da": "ba5f4560bd52842dc67b28a9f1f220a2f11751ec9557626051f4aced06c2d7c2",
+        "de": "28ecbcd4af52ad676fcadb311aa398cd979725f4426556e6b266d57583e63447",
+        "es": "3e805d3b330d52c2c3d04898bc8dab9678f57439d83aee1052fef4303f5960e8",
+        "fr": "8cd396ee3679ab4bd877cccc2146d21076dcedd5d28581d0a0eb620a1f36f7de",
+        "nl": "ce6780814456592ce12c382caf1ef679e96b3273a8d478b151532fd961ea39d2",
+        "pt": "abd2141b6219a94780631d51ed526398133e1a4088a25f7f7c6ebf5b6820ef7f",
+        "sv": "6beba10b5063fad49fb14d9d70e9ca251730e9bb0253964b4b077410881334fb"
+      }
+    },
+    {
+      "model": "TI-84+CE",
+      "os_version": "5.0.0",
+      "evidence": "Production OS/app release generation; the app build is not an OS boundary. All extracted production tables from app 5.3.0.0037 through 5.7.0.0017 are identical.",
+      "apps": {
+        "de": "f6058461de542669d962cdfcddc233fe2faa9e6a7714b029a9417a9046993e05",
+        "es": "f6a23461e146786ea38d9efde799f7ae382cead546233c3cdeac8be57b6a9545",
+        "fr": "0e56c9825b6300b49f638a58c72f605b0b447766b1c404099c44a20c32786d7c",
+        "nl": "287fcbe4c9a1a10308e166b814b3a0781b84db03631decff1777672995dadae0",
+        "pt": "4157bcea39060b83a746b67bd9bab6b361b4ec65b8d08c67fdb6233d3eb2cf18",
+        "sv": "eab701aa458eda0ba57c918b594ab9660688274b6281d387b08d9eb98c8acf58"
+      }
+    },
+    {
+      "model": "TI-84+CE",
+      "os_version": "5.1.0",
+      "evidence": "Production OS/app release generation; the app build is not an OS boundary. All extracted production tables from app 5.3.0.0037 through 5.7.0.0017 are identical.",
+      "apps": {
+        "de": "88826b4248213067f79df79d359bc4de3d66d79cdf630bc9d5e06a00cc2722f5",
+        "es": "b12ea132de24b5deb33921d358adfdd9dc7c5825108240485ded3e21fe8a94c2",
+        "fr": "32eff856dd67e88baee949c88bb44cdc30bd0958f4069dc70e9bd276a201cc58",
+        "nl": "afd3a749b9d7b766969e76728a9e4ff4d900a4c9588f726730ae1802f128b6a9",
+        "pt": "ab05426fd727210f0299b824cf455fb54b0b675251dccd29158575befe4648c5",
+        "sv": "e311b61dbd0cc8bf62da3d59d10efd41ca2d372fe04fb8d1d54dafb2ba976235"
+      }
+    },
+    {
+      "model": "TI-84+CE",
+      "os_version": "5.2.0",
+      "evidence": "Production OS/app release generation; the app build is not an OS boundary. All extracted production tables from app 5.3.0.0037 through 5.7.0.0017 are identical.",
+      "apps": {
+        "de": "f4ad7ced97e865f2964ee2e1839a899c8278a9616fd26be9cc313b8eb01db7e5",
+        "es": "f13ae0780e2ee50c310ac42d4658fe1a8ff822a24d27024d6b2739a58404ae0c",
+        "fr": "a4bd7ea9fe2b01cacb82f399b1eb5f7ef1d726a55d4b38522651c04ce49df8ad",
+        "nl": "4fb8e3ec69f9a37e77af273e112b927d3d62f13221428d746016f9712d1066e6",
+        "pt": "315b71fc9a1a391bad5b6655949b215a6ff6cdb482ec874d1d00a59fa2f97ccf",
+        "sv": "66e64e8bf187a95bf988fd02069286052a16f57f7b40fc1fe1d3ad34a6991997"
+      }
+    },
+    {
+      "model": "TI-84+CE",
+      "os_version": "5.3.0",
+      "evidence": "Production OS/app release generation; the app build is not an OS boundary. All extracted production tables from app 5.3.0.0037 through 5.7.0.0017 are identical.",
+      "apps": {
+        "de": "b9709be56def24453161b9ed819fb313aafb54d700619bc03eee1faf185be368",
+        "es": "e1bbb67f56035fb399d94035da5d33fb0ab9933da558ca612779300b6e6a37f3",
+        "fr": "d3f70902c9b81ad04462f070e748450d95fc929fa7c7d2f58f5da9a1bf6384f2",
+        "nl": "778811c1a5002f73a05a5430964878d096d3a8d01a58bada39280cfb880f3f5e",
+        "pt": "8ecc18dd57fbef3e8d90f750d3e96a2cfcd33522c76ca33e69599a3ffd61c332",
+        "sv": "476ead586976c143a19ba451c779052f2282ded9bd651d9d626d613f2fb967ea"
+      }
+    }
+  ],
+  "accessible_overrides": {
+    "no": {
+      "6301": "ZYscl"
+    },
+    "fr": {
+      "6303": {
+        "TI-84+CSE": "Yscl"
+      },
+      "EF39": "[n/d]",
+      "EF3A": "[Un/d]"
+    },
+    "de": {
+      "BB9E": "[ß]"
+    }
+  },
+  "baseline_commit": "37049d60049cff223a9fbc0d425a85ecde4531a3",
+  "baseline_sha256": "9f02307a8c525777603aeab2c7f5f37e298efd44acd04df8b5161420bd7aa7bc"
+}

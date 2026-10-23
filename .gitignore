@@ -1,2 +1,6 @@
 
 extractor_output.txt
+
+/research/
+__pycache__/
+*.py[cod]

@@ -1,0 +1,4173 @@
+{
+  "description": "Original localization app inputs. Each binary is identified by SHA-256; ISO members include exact byte offsets. Twelve local-only historical CE inputs have no public URL and are not required by timeline.json.",
+  "collected_on": "2026-10-23",
+  "apps": [
+    {
+      "sha256": "005475a62eb69850fc0bb15b627577ba84473bc9325423fe25d1d7edced7f243",
+      "size": 43011,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.0.0.0058-005475a62eb6.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0058",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "ea97fd6066d8e6a29a28d245e158069929fe3aac644fa039dde279edfe9674f2"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "e000ceb4d83d54470ad789812cdbbe181f43d3a7c8ab8def1cb645b1f4f97307",
+      "size": 43159,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.0.0.0068-e000ceb4d83d.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0068",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "7a5282fb7915dabfcd579f40eb50b27243a285c1f989f7bafdd1d2b29c69534c"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.0068"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4877859",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4877859"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f6058461de542669d962cdfcddc233fe2faa9e6a7714b029a9417a9046993e05",
+      "size": 43342,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.0.0.0089-f6058461de54.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0089",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "fb135c78116eacc968eb36dbbf4dc67f9647d3d979032712f56eb5fc619cb393"
+        }
+      ],
+      "source_version_labels": [
+        "5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=168575",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=168575"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ae05d0aea949df6876d9ce2e9fcf547f614425d88780a09c36a5feceb2bfb21b",
+      "size": 42809,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.0.0.24-ae05d0aea949.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.24",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "11206ca83605a4400f2b03a668ea581c89302973b0fb428f210a7ef53bf8f224"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.24"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4430754",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4430754"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "88826b4248213067f79df79d359bc4de3d66d79cdf630bc9d5e06a00cc2722f5",
+      "size": 43690,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.1.0.0110-88826b424821.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.1.0.0110",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "b2783a3871823ac497eb107e5de7ef72332c87d947d0e0840f335e4d5d5bd141"
+        }
+      ],
+      "source_version_labels": [
+        "5.1"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=302583",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=302583"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f4ad7ced97e865f2964ee2e1839a899c8278a9616fd26be9cc313b8eb01db7e5",
+      "size": 45302,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.2.0.0035-f4ad7ced97e8.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.2.0.0035",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "b115dd866e2e6a4199db9975c4e70281f36868001fdc9cb9ffad5c64eee1e923"
+        }
+      ],
+      "source_version_labels": [
+        "5.2"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=657272",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=657272"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "b9709be56def24453161b9ed819fb313aafb54d700619bc03eee1faf185be368",
+      "size": 46328,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.3.0.0037-b9709be56def.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.0.0037",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "04d173828df4c5d904ecb25688cbe7f8c834db8b5d952bbbf620d444167bbf2e"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=1138305",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=1138305"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ae3ad0f13b2bccb333a674bc0ab8ccf99682f85d1c7c7346860c45e8768b0d46",
+      "size": 46517,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.3.6.0018-ae3ad0f13b2b.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.6.0018",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "5fc34a3f1a67466893cbe953e19f0e36a8eaa327e1ed4521e8cf8b60460007f7"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621238",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621238"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3667561f1560a9d3366916cde9276fbef1efc7856ab7006a53bcdf079772100a",
+      "size": 46478,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.5.0.0011-3667561f1560.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0011",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "c0e5df9790566ef478eb74425b3297bf37ed961949c851f9d4b50b748d6aa475"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.5"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639013",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639013"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "960ca9be8e547d72b8a4bf72fec4d293d3c466a82677c03dc193af1db5719b3c",
+      "size": 46478,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.5.0.0038-960ca9be8e54.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0038",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "2c9a8581a04d55f51bb124bae568e407604769a1e4e35eb0e0dcaa3bae55d12f"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621239",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621239"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3c7852cbd24f45ff2fcb128088d1cad42e20cae2f269403f125ac935a727fafb",
+      "size": 46813,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.6.0.0017-3c7852cbd24f.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "ef635971aea267d151fcd10c39c0bef8ef62577ae5005eba34e44a1dac2826f8"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3f1048918a947a6d6098020335f2231381ffbe48d14c69e7a1b71fe8e270cd8d",
+      "size": 46813,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.6.0.0020-3f1048918a94.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0020",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "851576ee9138ed09590b03a4d9c76b59bde5254e9a6e14f3fbb5702e2b2903aa"
+        }
+      ],
+      "source_version_labels": [
+        "5.6",
+        "5.6.0.0020"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639394",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639394"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-ce-apps",
+          "url": "https://archive.org/download/ti-84-plus-ce-apps/Deutsch_CE_5.6.0.0020.8ek"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "0f8f6c3ef3cb6480ed41695b043e51b923fad9f214e5949137438fc45831887a",
+      "size": 46838,
+      "family": "ce",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/de/5.7.0.0017-0f8f6c3ef3cb.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "527cd474cd44f349e9fb11267bec20c8dd06774aade51acdad958aad9041a260"
+        }
+      ],
+      "source_version_labels": [
+        "5.7"
+      ],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/de/B36DBB231B6E40FF87A86B0BE9B57812/language-localization-app",
+          "url": "https://education.ti.com/download/de/ed-tech/B36DBB231B6E40FF87A86B0BE9B57812/1BC39AAE1D3B49C587B06EC836E5F86A/Deutsch_CE_5.7.0.0017.8ek"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564391",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564391"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "631b6930ce4df95e1650aa6b4b2a6be410244b063b8df021e1ff57c2188a89a6",
+      "size": 43044,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.0.0.0058-631b6930ce4d.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0058",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "288f717d3ee38af9d62ec5125274d1143d701b294c7f6425f9da0009a4fb6ff6"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "1da738a8c34ccf80906dcb5b982d48f898870fc5aafdcbd9e5e5fe0e93977239",
+      "size": 43262,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.0.0.0068-1da738a8c34c.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0068",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "335675ec18e64968071f0e93359ddac2134a2816b37d83f50ab55ecdd576451e"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.0068"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4877854",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4877854"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f6a23461e146786ea38d9efde799f7ae382cead546233c3cdeac8be57b6a9545",
+      "size": 43456,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.0.0.0089-f6a23461e146.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0089",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "ad71dbd0edd90bab3fec455592ab06e153d1f3ebdc13138c3a51096f125bb949"
+        }
+      ],
+      "source_version_labels": [
+        "5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=168576",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=168576"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "dc64170f996bd279138c8964b7362f8f0f405f50303dda8921be2685de3ff331",
+      "size": 42863,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.0.0.24-dc64170f996b.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.24",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "715b7b1d9370d93b9350609116cb594ae3525f42b85162b74734faedd7d4dc06"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.24"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4430755",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4430755"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "b12ea132de24b5deb33921d358adfdd9dc7c5825108240485ded3e21fe8a94c2",
+      "size": 43890,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.1.0.0110-b12ea132de24.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.1.0.0110",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "1c9cf483f50c6259c0c9a6dd841080f20cf9bc34615517c38ed6b7854c43aca8"
+        }
+      ],
+      "source_version_labels": [
+        "5.1"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=302584",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=302584"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f13ae0780e2ee50c310ac42d4658fe1a8ff822a24d27024d6b2739a58404ae0c",
+      "size": 45584,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.2.0.0035-f13ae0780e2e.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.2.0.0035",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "f20a017b1ba1fedcc3e2960550111a8c2497eb12837483f1a37d380fccd26162"
+        }
+      ],
+      "source_version_labels": [
+        "5.2"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=657271",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=657271"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "e1bbb67f56035fb399d94035da5d33fb0ab9933da558ca612779300b6e6a37f3",
+      "size": 46576,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.3.0.0037-e1bbb67f5603.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.0.0037",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "62ded0ce9462cc54dd40e3e37a1aa237062bb33a56e71061c9d5bdb4d36f9589"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=1138317",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=1138317"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3edfee50f7c79c2edaf5461a6d4c84953fdf08d7dde2e24023363fc2c08e1d75",
+      "size": 46749,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.3.6.0018-3edfee50f7c7.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.6.0018",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "2d7da09ebae4594d5c3f050cfe37ef16dce1501a5db66a94c67b343f901432a4"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621242",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621242"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "7dce71b4bf81717db3716fa394727c715e3b07237d14ce0594000e56a050ab76",
+      "size": 46710,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.5.0.0011-7dce71b4bf81.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0011",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "0e3bc3d1bbc82f58063de8ec4198acca4a60e3db9accb8bfea16837aafbe6bd0"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.5"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639014",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639014"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "651e92ea8135ef2927dbd7db661286b6e20df266d096ea86292f997f75b568af",
+      "size": 46710,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.5.0.0038-651e92ea8135.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0038",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "ed6998c9e8bbbc800afb241968b06e051d3a4840e2e4ff557699921287e38634"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621243",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621243"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a96b935a7bd5ff6cedc58586ac65b121e7156a75063bc73915a1b4654dfc7cc7",
+      "size": 47039,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.6.0.0017-a96b935a7bd5.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "06eb1715b8e35d8a020d1b561c0fa76683870ac728af9c4391fca4ac7949bff7"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "821f7260aa6da67de6b5afb9e3a7406eeae85f338e52d02b87a0ee465744d582",
+      "size": 47039,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.6.0.0020-821f7260aa6d.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0020",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "b9c6effb5578e8494947081bc187eccff3bf37cdd82db17c08f0b4e6a3b73c8e"
+        }
+      ],
+      "source_version_labels": [
+        "5.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639395",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639395"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ab1ece0591adc3e2578499bc7dd17684ce3128bc6a79473e52799f063b3ed34e",
+      "size": 47061,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.7.0.0017-ab1ece0591ad.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "069cb5de4bb2fb954dd6ea0b93b53a07c5fc9e70eb137cc5b227ead959dc6c19"
+        }
+      ],
+      "source_version_labels": [
+        "5.7"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2812558",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2812558"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ddce4b179e0a4557de08fbb30048cecba238a1a09ece710a649062e201c75af0",
+      "size": 47061,
+      "family": "ce",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/es/5.7.0.0017-ddce4b179e0a.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "069cb5de4bb2fb954dd6ea0b93b53a07c5fc9e70eb137cc5b227ead959dc6c19"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/es/B36DBB231B6E40FF87A86B0BE9B57812/language-localization-app",
+          "url": "https://education.ti.com/download/es/ed-tech/B36DBB231B6E40FF87A86B0BE9B57812/28384671FC5B425D93DE169953CBEDDD/Espaol_CE_5.7.0.0017.8ek"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "945074271d03aebb3f98b16aa5745cf48e36b275b36d27b5df64b4cb4477a2ac",
+      "size": 47660,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.0.0.0058-945074271d03.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0058",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "65881c7a8ba9cdd055eb4d8809a637d6215617fd00b99f49005c7f8f3575be05"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "0e56c9825b6300b49f638a58c72f605b0b447766b1c404099c44a20c32786d7c",
+      "size": 47993,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.0.0.0089-0e56c9825b63.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0089",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "2ecf4c5f570d114f5424aa00827ed5d6153954c6669dda347557fdac6852b055"
+        }
+      ],
+      "source_version_labels": [
+        "5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=168581",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=168581"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "32eff856dd67e88baee949c88bb44cdc30bd0958f4069dc70e9bd276a201cc58",
+      "size": 48241,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.1.0.0110-32eff856dd67.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.1.0.0110",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "d3452a18c3e99bd840fd14b5f7a03ca6ad8610d13c8478ed78a6a15f3d9eae56"
+        }
+      ],
+      "source_version_labels": [
+        "5.1"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=302582",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=302582"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a4bd7ea9fe2b01cacb82f399b1eb5f7ef1d726a55d4b38522651c04ce49df8ad",
+      "size": 49881,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.2.0.0035-a4bd7ea9fe2b.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.2.0.0035",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "458a0a12ca86b4b370900cf3cb1c1e421d36b5fe4b7218f693098137e57a2d9b"
+        }
+      ],
+      "source_version_labels": [
+        "5.2"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=657273",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=657273"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "d3f70902c9b81ad04462f070e748450d95fc929fa7c7d2f58f5da9a1bf6384f2",
+      "size": 50859,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.3.0.0037-d3f70902c9b8.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.0.0037",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "1e790a9c4cdafe7b491667a73c173ff04faa9d2aaa3584c2ec827c905c2ecfa1"
+        }
+      ],
+      "source_version_labels": [
+        "5.3"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=1138302",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=1138302"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "adeb0a653ec1bc7e9eab666795e67743b15163d22827b5a82b70e109b981e6e9",
+      "size": 51040,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.3.6.0018-adeb0a653ec1.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.6.0018",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "df005cf9743069dcc4a7f10283d69941d4b17644d95f45e26cf251d407a4c668"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621245",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621245"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "875da76a3f10ede9ab9575e76a32abc39b8de63047a11a8615c914d04244aeb0",
+      "size": 51001,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.5.0.0011-875da76a3f10.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0011",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "c2b6165a9914210cee4554a767e5e8d7c77c9ff305fb85d90939f9607afc78cd"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.5"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639012",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639012"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ea0189229f7835f7f392509009197c933b072a5358c3311869b3c8d99debb097",
+      "size": 51001,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.5.0.0038-ea0189229f78.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0038",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "71618c008911be2d41cfe5bd8d8f3a30f8460ae9fe11b2e2fc1e1b9f506447ec"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621244",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621244"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "1d2cd5865da6a5358df471d5e9967cd196edd58e8ff985814085eeebf40439fd",
+      "size": 51360,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.6.0.0017-1d2cd5865da6.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "f97093b615eaacb6e962c8f37e9edc5b3c45be3949257ea64a2d4f3c1aa1efdd"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a49bc89a9f4aebc2567b284e53686c44ed55ff3c54d95e2eb9df4311d81c4e83",
+      "size": 51360,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.6.0.0020-a49bc89a9f4a.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0020",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "53700933b2bfc9dd9f144bb70b3f62a665194a3bc4e664ee5dc1e44dab409106"
+        }
+      ],
+      "source_version_labels": [
+        "5.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639393",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639393"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "735c9f32bde675a6c13bc0dfaddcc164b0f1ecb14626317acd1be60e8a6ddd03",
+      "size": 51384,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.7.0.0017-735c9f32bde6.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "a1b3f58e13ed90a9e37caa323d0f1a321ac2fe976f4fc0916c2782ec34b0ae46"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/fr/B36DBB231B6E40FF87A86B0BE9B57812/language-localization-app",
+          "url": "https://education.ti.com/download/fr/ed-tech/B36DBB231B6E40FF87A86B0BE9B57812/1368FB00577047FB946B6652F8E24902/Franais_CE_5.7.0.0017.8ek"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a3ab1383298103821fabe6289670fe949f6d16ff9b29cfa6ecfe0d2aa8979ef2",
+      "size": 51384,
+      "family": "ce",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/fr/5.7.0.0017-a3ab13832981.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "a1b3f58e13ed90a9e37caa323d0f1a321ac2fe976f4fc0916c2782ec34b0ae46"
+        }
+      ],
+      "source_version_labels": [
+        "5.7"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2812550",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2812550"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "951504d367abad0f6394ddb7d6cb9b5e292dd0bbb90eecfbc612bc4f792ee78d",
+      "size": 43978,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.0.0.0058-951504d367ab.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0058",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "417f7ad52f6d562b8662304adcb6d5d13e55d839261b8e9f5c5e2fc38d4b0779"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "8d705c75ea599a1e8cfdb0828b084e7e26f55dedc0f3b8117e7d3046e285a963",
+      "size": 44076,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.0.0.0068-8d705c75ea59.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0068",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "668e4dd279fc7a8bf2149507c37fd98e7b12de23d1288fe721feae0403e70983"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.0068"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4877843",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4877843"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "287fcbe4c9a1a10308e166b814b3a0781b84db03631decff1777672995dadae0",
+      "size": 44226,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.0.0.0089-287fcbe4c9a1.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0089",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "114e89723f12185d4fc622e1f512c88519011b4861ad97fc98a274574bcc67e6"
+        }
+      ],
+      "source_version_labels": [
+        "5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=168584",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=168584"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "946e7b201d898056237c3a36edf2dc4bb024e466d231111b37c7740825434007",
+      "size": 43661,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.0.0.24-946e7b201d89.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.24",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "f485f0d3df3fb745bf765a591d01ce9b79e08478af41bcd4825679d635bc6874"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.24"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4430763",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4430763"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "afd3a749b9d7b766969e76728a9e4ff4d900a4c9588f726730ae1802f128b6a9",
+      "size": 44579,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.1.0.0110-afd3a749b9d7.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.1.0.0110",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "788ef8c710cf633de52d44536941df58a77432a54ae6717c18d4809cd7671b42"
+        }
+      ],
+      "source_version_labels": [
+        "5.1.0.0110"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2672223",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2672223"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "4fb8e3ec69f9a37e77af273e112b927d3d62f13221428d746016f9712d1066e6",
+      "size": 46226,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.2.0.0035-4fb8e3ec69f9.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.2.0.0035",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "627977664d57534059a47b6b106a2e05c3154d5b1d8646aba5a14fb669a62bfb"
+        }
+      ],
+      "source_version_labels": [
+        "5.2"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=657270",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=657270"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "778811c1a5002f73a05a5430964878d096d3a8d01a58bada39280cfb880f3f5e",
+      "size": 47222,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.3.0.0037-778811c1a500.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.0.0037",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "83d01c2e50c311ac3b64476a8b36af6ee5013b5c5ca529625a9ae532e8f339ab"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=1138310",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=1138310"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f7c5b943ad9db7fdf4502398fd1560a4aedead6b12301c2d83dc3736c0febbdb",
+      "size": 47387,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.3.6.0018-f7c5b943ad9d.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.6.0018",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "e8e94ab721a5a512fcf7cceaedeeeed72dbd3a38d9e5e70bed0c1da5fd7ca94a"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621246",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621246"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "b764053b65c334a8d65098bfc08a70f258944f8aaca27ac98d9457271283fcf1",
+      "size": 47348,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.5.0.0011-b764053b65c3.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0011",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "6c488286cb62a4516d00d39af14ed9dd284e5ca66f42666dd815d0c5bd0f4699"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.5"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639015",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639015"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "70dd470cc6ed56e36babac71c506283f9576846d3e62631785ac4c01a3608036",
+      "size": 47348,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.5.0.0038-70dd470cc6ed.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0038",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "1b453d69654c5803b68a1a59a65095e84d9223332bb69a1263c764842e040196"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621247",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621247"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "b48fa9a89c3b8b38865cd649c640e205c66787394e0401a894df845f76383c61",
+      "size": 47706,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.6.0.0017-b48fa9a89c3b.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "37d98981241a866027e111b1b486b36872263789efef8bb4da588f60b69d902d"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "25ac13ee9063520b67a6f43a22a16deea2a7e1c186dbcd626faf14084897d6b0",
+      "size": 47706,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.6.0.0020-25ac13ee9063.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0020",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "f7f2aede3526ec756e72a8af9836e23cc58093da6e2e50d047f227198f7ea936"
+        }
+      ],
+      "source_version_labels": [
+        "5.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639396",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639396"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "8ab3ab70c4829a8807d4c812b1b49a64f4cc5b3b8d4baeece50ea6c56e8efa9c",
+      "size": 47729,
+      "family": "ce",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/nl/5.7.0.0017-8ab3ab70c482.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "1c4323c83fcd2b7a5ec748b7839351f4fac4044761e832bcd20dc845a95f3e6e"
+        }
+      ],
+      "source_version_labels": [
+        "5.7",
+        "5.7.0.0017"
+      ],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/nl/B36DBB231B6E40FF87A86B0BE9B57812/language-localization-app",
+          "url": "https://education.ti.com/download/nl/ed-tech/B36DBB231B6E40FF87A86B0BE9B57812/64742225416D4FBF83917268D40A3B40/Nederlan_CE_5.7.0.0017.8ek"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564396",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564396"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-cetpython-bundle-5.8.1.12",
+          "url": "https://archive.org/download/ti-84-cetpython-bundle-5.8.1.12/Nederlan_CE_5.7.0.0017.8ek"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "665906bec316b36db8c98412558795ed29697693af46833052433c5dbf7c35fe",
+      "size": 48451,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.0.0.0058-665906bec316.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0058",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "13e5867a9117454fc50eec220985f9c23ad9e4c81af8643932f05198511708c4"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "837e50fc3d1cff6af60d3e4298e4aa260a93c4defb5651206f8adcc40e96dbc8",
+      "size": 48599,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.0.0.0068-837e50fc3d1c.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0068",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "fee4f0b70e77e14f615962eacc40948ade2050651d36c7c41092d9ee2e17a60b"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.0068"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4877848",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4877848"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "4157bcea39060b83a746b67bd9bab6b361b4ec65b8d08c67fdb6233d3eb2cf18",
+      "size": 48758,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.0.0.0089-4157bcea3906.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0089",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "dc2136199a9ac4d10f6d0882990fd873f5ca0e626e15f49fba9af825183640d4"
+        }
+      ],
+      "source_version_labels": [
+        "5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=168592",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=168592"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3d71157258ac2d5ee2d84798ef90f534ae211ba199d33b6bd109d2cc53bcf062",
+      "size": 48253,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.0.0.24-3d71157258ac.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.24",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "aad8eca26723d99b924219f1f545f5196fb6bf157c6651eaca6c54045d736cfe"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.24"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4430751",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4430751"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ab05426fd727210f0299b824cf455fb54b0b675251dccd29158575befe4648c5",
+      "size": 49132,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.1.0.0110-ab05426fd727.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.1.0.0110",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "8e406dff18a6fb66a5ca9ffd2833fb0025e373d744991301bb2162b59a90c403"
+        }
+      ],
+      "source_version_labels": [
+        "5.1"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=302588",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=302588"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "315b71fc9a1a391bad5b6655949b215a6ff6cdb482ec874d1d00a59fa2f97ccf",
+      "size": 50704,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.2.0.0035-315b71fc9a1a.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.2.0.0035",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "d0e1920a9d658fa54a7b76439ada9e257e5302c8dc62c6001abd3c3d5f1f1143"
+        }
+      ],
+      "source_version_labels": [
+        "5.2"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=657268",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=657268"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "8ecc18dd57fbef3e8d90f750d3e96a2cfcd33522c76ca33e69599a3ffd61c332",
+      "size": 51709,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.3.0.0037-8ecc18dd57fb.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.0.0037",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "22f7cd1166accdf8e95f2e468fdc359a670e6d46d449b01eb4d834341cca4918"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=1138313",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=1138313"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "e50482cf23a9988481f1e3760f7ec969db9871077654fabf76d1d242220f5a43",
+      "size": 51888,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.3.6.0018-e50482cf23a9.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.6.0018",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "9bb1185c76d4c06ffd5748792d2a8713743749e8ddc7faf542e386c8f2c2f433"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621248",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621248"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f61075b469b7bd6c533cb104b9d4507a86bbead0f718331a127b2c111dbf090e",
+      "size": 51849,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.5.0.0011-f61075b469b7.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0011",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "44078faa14f1f09e72ab84b2ad3ebf4addecbb7951e9c22131485d993c24bea9"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.5"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639016",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639016"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "5d7a6d680745e54a369b3a21e358b9fae04b2919156626bd9019bb6127cbed1f",
+      "size": 51849,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.5.0.0038-5d7a6d680745.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0038",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "b2a4ce83c55437ee2ea80e0588ca9b08e40be8c767891130a4fddd49e22bb3ee"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621249",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621249"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "688829e7c7b02060fbbffed0667a3dae459801e404c5b7f1f57beef50b0f1783",
+      "size": 52176,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.6.0.0017-688829e7c7b0.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "c1b40da8214b10123d9b734d2b860d242b9480b566a5c211f74e763f46e2eaba"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a476f834b0bade8ef230741046e7fa559068a5060cf5a4757032bd5d4c035189",
+      "size": 52176,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.6.0.0020-a476f834b0ba.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0020",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "50f49f79effb915127a1c23856aa4d93ade3444294b069db925bcb6cb0d977f6"
+        }
+      ],
+      "source_version_labels": [
+        "5.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639397",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639397"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "52b724683536461835a1399f454263a95bf0da67a05fc96287bb01c23048b02c",
+      "size": 52198,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.7.0.0017-52b724683536.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "14ec26a2f467ea0fe744bba4c0da20a41c37ae1d26be3ff6913ef808823382d3"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/pt/B36DBB231B6E40FF87A86B0BE9B57812/language-localization-app",
+          "url": "https://education.ti.com/download/pt/ed-tech/B36DBB231B6E40FF87A86B0BE9B57812/AEC2F72B5BA944E681928605A8E227F8/Portuguese_CE_5.7.0.0017.8ek"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "54d723fd68f206b56b0d9b60b18a04036e5f5ba7e453f848738faace7c22b7c5",
+      "size": 52198,
+      "family": "ce",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/pt/5.7.0.0017-54d723fd68f2.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "14ec26a2f467ea0fe744bba4c0da20a41c37ae1d26be3ff6913ef808823382d3"
+        }
+      ],
+      "source_version_labels": [
+        "5.7"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2812556",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2812556"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "148722b5dc300520b0650352b99dbc4bd9d833ec73bd2ef24da1ab99668c64f3",
+      "size": 43846,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.0.0.0058-148722b5dc30.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0058",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "63a661b0da0d92fe453462996ff3c1e5ba86541d0c7c8d420ad8d0fb5a493642"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "2f635c8ce7b2b0dd2363685346a1ee5b5240874fd87dc1801e6b9896ce7c4379",
+      "size": 43981,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.0.0.0068-2f635c8ce7b2.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0068",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "335e0d9fba4a33d8e4f769cb8f2b789fb5556a3eef315518d788bbd7bbdca882"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.0068"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4877850",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4877850"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "eab701aa458eda0ba57c918b594ab9660688274b6281d387b08d9eb98c8acf58",
+      "size": 44132,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.0.0.0089-eab701aa458e.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.0089",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "d01b9c2d116a80aaeaf83ad01fe6f9638bef9341e367b13d85fa3ac339b5501d"
+        }
+      ],
+      "source_version_labels": [
+        "5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=168603",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=168603"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "c29d5e4e3116889f08d765d65cdcc1324782bf97c15835056e683e0bcb9717c4",
+      "size": 43558,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.0.0.24-c29d5e4e3116.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.0.0.24",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "74047cec7f4ce96d72b745d126a344f536d8707959569ceb6a7605906347d11a"
+        }
+      ],
+      "source_version_labels": [
+        "5.0.0.24"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=4430760",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=4430760"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "e311b61dbd0cc8bf62da3d59d10efd41ca2d372fe04fb8d1d54dafb2ba976235",
+      "size": 44519,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.1.0.0110-e311b61dbd0c.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.1.0.0110",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "87eec10b7e2a306be83956aa868dbbeebbfdd0d97fda61efe1f4617983dec65d"
+        }
+      ],
+      "source_version_labels": [
+        "5.1"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=302589",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=302589"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "66e64e8bf187a95bf988fd02069286052a16f57f7b40fc1fe1d3ad34a6991997",
+      "size": 46055,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.2.0.0035-66e64e8bf187.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.2.0.0035",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "63ed6f4f038f72ca01e209a3ecd1934d29422418b81fea6f829beb594a6e668d"
+        }
+      ],
+      "source_version_labels": [
+        "5.2"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=657265",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=657265"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "476ead586976c143a19ba451c779052f2282ded9bd651d9d626d613f2fb967ea",
+      "size": 47043,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.3.0.0037-476ead586976.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.0.0037",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "4d6919f470ef51e43c8bf9d0579c1fc8674710acd63b228695e067cc5482900b"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=1138316",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=1138316"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "6056c5758e1ba92e56635ea05ab1d19b76a9154fa4f57f293886f91fd7f11edb",
+      "size": 47214,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.3.6.0018-6056c5758e1b.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.3.6.0018",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "8cb5e210cb2388bf615a3cb80026d2be36d84136837798f5ee1dcd10ba425a8e"
+        }
+      ],
+      "source_version_labels": [
+        "5.3.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621250",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621250"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "765edba26a96a7e3093c949be1f627704fd679d472a3eaa15b000e8b01a6254b",
+      "size": 47175,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.5.0.0011-765edba26a96.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0011",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "10c5a62e5f7b3812f9bb2cd67011a60741c0c0c6e55bc038e8a7c3387acd999e"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.5"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639017",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639017"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "51cf34f85ee966fc214d6c18f3afd4b9ce7b80141fc7bee8bf88e3df9a88497a",
+      "size": 47175,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.5.0.0038-51cf34f85ee9.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.5.0.0038",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "a752a24ba6b1b3fb0741950ca1e36ea36551dd49a12fb305b0a873291ff304f1"
+        }
+      ],
+      "source_version_labels": [
+        "5.5.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2621251",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2621251"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "b0aae2e4d6a769aed47221ce8ff8e0a96576cf369b49ebd51ba074d68c495970",
+      "size": 47496,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.6.0.0017-b0aae2e4d6a7.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "3543c8b8553bd306f8e491d5b1f06104d014a0033831ef0aa2acc25e79f464af"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "542d6d4c85bcfceed85f85542d21c8ee9406d559f5d4dc31907599b81c7c2aa4",
+      "size": 47496,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.6.0.0020-542d6d4c85bc.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.6.0.0020",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "fc83ba781ac189e89719a2feb78bb61b4a6db17b1e226b9e6e282a609adeae52"
+        }
+      ],
+      "source_version_labels": [
+        "5.6"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=2639398",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=2639398"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "fd737ae588488a142771a0ccccd77caecba45b55f8cbe183f29b074ba293cde3",
+      "size": 47520,
+      "family": "ce",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus CE family",
+      "file": "apps/ce/sv/5.7.0.0017-fd737ae58848.8ek",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "5.7.0.0017",
+          "version_evidence": "CE certificate field 0x812",
+          "decoded_payload_sha256": "c083e95142b30bfbb2379208449fdd83626fef162701c7276323a45ae152bb0a"
+        }
+      ],
+      "source_version_labels": [
+        "5.7"
+      ],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/sv/B36DBB231B6E40FF87A86B0BE9B57812/language-localization-app",
+          "url": "https://education.ti.com/download/sv/ed-tech/B36DBB231B6E40FF87A86B0BE9B57812/0669119A6C444D7EA9515CEDC7F948DC/Svenska_CE_5.7.0.0017.8ek"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564402",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564402"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ba5f4560bd52842dc67b28a9f1f220a2f11751ec9557626051f4aced06c2d7c2",
+      "size": 77839,
+      "family": "cse",
+      "language": "da",
+      "language_name": "Danish",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/da/ba5f4560bd52-Danish_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "aaa2950725b713523f4b6abeb2102d6e81714761855579439041ad5405477ca5"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=12472",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=12472"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/Danish_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "28ecbcd4af52ad676fcadb311aa398cd979725f4426556e6b266d57583e63447",
+      "size": 77061,
+      "family": "cse",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/de/28ecbcd4af52-German_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "be67baa9dd9d562264cc700e2b4b43930f7d207baa21ec44ba30527b5b483f3b"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=12470",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=12470"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/German_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3e805d3b330d52c2c3d04898bc8dab9678f57439d83aee1052fef4303f5960e8",
+      "size": 78276,
+      "family": "cse",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/es/3e805d3b330d-Spanish_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "6fe090cb4d5ce8555e062fcb2306c92346f7284fe89082eda136fa228a7d627c"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=12469",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=12469"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/Spanish_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "8cd396ee3679ab4bd877cccc2146d21076dcedd5d28581d0a0eb620a1f36f7de",
+      "size": 100889,
+      "family": "cse",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/fr/8cd396ee3679-French_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "c49e12057142aa7ef03563497325028fb19937a242a4f11c91b3e15c6294580f"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=12474",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=12474"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/French_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ce6780814456592ce12c382caf1ef679e96b3273a8d478b151532fd961ea39d2",
+      "size": 76791,
+      "family": "cse",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/nl/ce6780814456-Dutch_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "523c9dc91c92e51a32e678a888f57a0ab5052813bce70ce707c6b540f4fac7bf"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=12471",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=12471"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/Dutch_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "abd2141b6219a94780631d51ed526398133e1a4088a25f7f7c6ebf5b6820ef7f",
+      "size": 103205,
+      "family": "cse",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/pt/abd2141b6219-Portug_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "597b25dcd2eaa0713da38774532f3ef270cb1c48e4cf7136d684127193c3d632"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564405",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564405"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/Portug_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "6beba10b5063fad49fb14d9d70e9ca251730e9bb0253964b4b077410881334fb",
+      "size": 76256,
+      "family": "cse",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus C Silver Edition",
+      "file": "apps/cse/sv/6beba10b5063-Swedish_40.8ck",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "e47465a16afec33561ff7b41f6212518ede843f0563a90107a516b85eea9473c"
+        }
+      ],
+      "source_version_labels": [
+        "4.0"
+      ],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=12473",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=12473"
+        },
+        {
+          "source_page": "https://archive.org/details/ti-84-plus-cse-apps",
+          "url": "https://archive.org/download/ti-84-plus-cse-apps/Swedish_40.8ck"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "585a99521dd496fd2f45d2b406479e81f095a12b997bbff8cd2b85e8a0620438",
+      "size": 29482,
+      "family": "mono",
+      "language": "da",
+      "language_name": "Danish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/da/585a99521dd4-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Danish__Dan83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "57164a02685ff66f43a738ba238ef7563a73038c1e844a4669eb208960caa852"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110402165950/http://education.ti.com/downloads/files/83plus/dan83f.8xk",
+          "url": "https://web.archive.org/web/20110402165950id_/http://education.ti.com/downloads/files/83plus/dan83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564431",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564431"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/dan83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Danish/Dan83f.8Xk",
+          "iso_offset": 522113024
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/dan83f.8xk",
+          "iso_offset": 241465344
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/dan83f.8xk",
+          "iso_offset": 241461248
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Danish/Dan83f.8Xk",
+          "iso_offset": 545091584
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/dan83f.8xk",
+          "iso_offset": 129918976
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "fae02347ddf7f099e0c9a3dadb8e3875c7bdf19fe146fe76bbd00efad34cbc67",
+      "size": 33146,
+      "family": "mono",
+      "language": "da",
+      "language_name": "Danish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/da/fae02347ddf7-FLASH__83p__BASECODE__dnk__Dansk.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "5acbc800e08516fc9783d92838c4fef386338e955f64285c34c1908c80842196"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "57164a02685ff66f43a738ba238ef7563a73038c1e844a4669eb208960caa852"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/dnk/Dansk.8xk",
+          "iso_offset": 357281792
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "bb3b1de60ae761203bd850c40faf285ece90971b35f7a6bfee8f1022856969b3",
+      "size": 32619,
+      "family": "mono",
+      "language": "da",
+      "language_name": "Danish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/da/bb3b1de60ae7-Dansk.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "a08f8e35af8416f67bd189ab8145995746271266e27d37a01c654878ce3182ad"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Dansk.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "c43f2103bb50e0049cc26f7fea83ca4277267a0af9823d5b157cb3958700ae0c",
+      "size": 32550,
+      "family": "mono",
+      "language": "da",
+      "language_name": "Danish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/da/c43f2103bb50-software__Dansk_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "2cc4d645649315f3241b984a0a2321fa38aa4436343d647778fa7dab40c7a6a4"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20091023180807/http://education.ti.com/downloads/files/83plus/84Dansk.8xk",
+          "url": "https://web.archive.org/web/20091023180807id_/http://education.ti.com/downloads/files/83plus/84Dansk.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564445",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564445"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Dansk_v240.8xk",
+          "iso_offset": 241688576
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Dansk_v240.8xk",
+          "iso_offset": 241684480
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Dansk_v240.8xk",
+          "iso_offset": 130142208
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "0bff23243fe8ddb2b963981b19fae36892ccd2a07c1360c06cf7e2577159910b",
+      "size": 31822,
+      "family": "mono",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/de/0bff23243fe8-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__German__Ger83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "cac2ba1c16475961a9755fd522bded9b462dcb7720574e69b8abb6d7878018a3"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20080823011726/http://education.ti.com/downloads/files/83plus/ger83f.8xk",
+          "url": "https://web.archive.org/web/20080823011726id_/http://education.ti.com/downloads/files/83plus/ger83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564436",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564436"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/ger83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/German/Ger83f.8Xk",
+          "iso_offset": 522248192
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/ger83f.8xk",
+          "iso_offset": 244252672
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/ger83f.8xk",
+          "iso_offset": 245837824
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/German/Ger83f.8Xk",
+          "iso_offset": 545234944
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/ger83f.8xk",
+          "iso_offset": 134057984
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "50650fcf157be2bd011c41158e7d7a5c41aacf014dffc87daa8a97191f5f0340",
+      "size": 35741,
+      "family": "mono",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/de/50650fcf157b-FLASH__83p__BASECODE__deu__Deutsch.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "3b12583287010b193b7c93af6719e6c2303d35a0d97e5b37ee96b073305f767a"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "cac2ba1c16475961a9755fd522bded9b462dcb7720574e69b8abb6d7878018a3"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/deu/Deutsch.8xk",
+          "iso_offset": 357177344
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "89523e0ae3a33732fbd9379d3a0e772fb45adadc6343042382cc1ea29033c9fa",
+      "size": 34955,
+      "family": "mono",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/de/89523e0ae3a3-software__Deutsch_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "f45ea2f9deb5a380de0c13a47dcfd7356d9e5a22d1603719ce00b33d057c3fd5"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407170334/http://education.ti.com/downloads/files/83plus/84Deutsch.8xk",
+          "url": "https://web.archive.org/web/20110407170334id_/http://education.ti.com/downloads/files/83plus/84Deutsch.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564449",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564449"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Deutsch_v240.8xk",
+          "iso_offset": 242270208
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Deutsch_v240.8xk",
+          "iso_offset": 242288640
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Deutsch_v240.8xk",
+          "iso_offset": 130508800
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f83318af0c2279ce99392d2f1c3fc381bf77819b562f5030ab56277898b5f7c6",
+      "size": 35024,
+      "family": "mono",
+      "language": "de",
+      "language_name": "German",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/de/f83318af0c22-Deutsch.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "75844f6d82aa6263e970e9a1978ab5ff2559e5b23a34c5e2cfb2c6ba49901b70"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Deutsch.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "6ddac035ad56b74f710bb6c7d34797d5ab80c56aaa9e2f518e0388a9ab79c2fb",
+      "size": 34035,
+      "family": "mono",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/es/6ddac035ad56-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Spanish__Spa83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "a76fe9a22121753a9e7f59c26c5ea2c4dde675d9c4c7b7bfac99480755ba421b"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/es/E2E24A53BEE543038B6A06EB3FFE60ED/83ti83plusoslanguagelocalization",
+          "url": "https://education.ti.com/download/es/ed-tech/E2E24A53BEE543038B6A06EB3FFE60ED/15B578FBA2D94F938519802AD8C0450E/spa83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564439",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564439"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/spa83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Spanish/Spa83f.8Xk",
+          "iso_offset": 522459136
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/spa83f.8xk",
+          "iso_offset": 245524480
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/spa83f.8xk",
+          "iso_offset": 247093248
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Spanish/Spa83f.8Xk",
+          "iso_offset": 545454080
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/spa83f.8xk",
+          "iso_offset": 135313408
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f7ed3733f1d124ecfd5a9250216c61437431904d36c8473c38079f80ca9ff80e",
+      "size": 37879,
+      "family": "mono",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/es/f7ed3733f1d1-FLASH__83p__BASECODE__esp__Espanol.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "2f058a013d243526ce553aec51e1d5ff5dd7c8dbef8d6d75b29d628bcf005c92"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "a76fe9a22121753a9e7f59c26c5ea2c4dde675d9c4c7b7bfac99480755ba421b"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/esp/Espanol.8xk",
+          "iso_offset": 357386240
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "69da8430b7c80adfa8f066e01b767cb035afa0a1152e14cb6a889ab989f9c060",
+      "size": 37206,
+      "family": "mono",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/es/69da8430b7c8-Espa_ol.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "6b620b0a7aa5b96428a37a8dfaa75eae7abe78d4caf1ef81051664e20e394756"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Espa%C3%B1ol.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "719ed3bc9fbb4953e968794d2491243b6c0a7ac6078aeef3bdb6d268b30d0bf0",
+      "size": 37137,
+      "family": "mono",
+      "language": "es",
+      "language_name": "Spanish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/es/719ed3bc9fbb-software__Espanol_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "9eec7a8732531f1055c85da25d244c3e38c0fef4aa1a90196f87ab7e41f67dfa"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20091023180712/http://education.ti.com/downloads/files/83plus/84Espanol.8xk",
+          "url": "https://web.archive.org/web/20091023180712id_/http://education.ti.com/downloads/files/83plus/84Espanol.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564454",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564454"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Espanol_v240.8xk",
+          "iso_offset": 244070400
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Espanol_v240.8xk",
+          "iso_offset": 245655552
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Espanol_v240.8xk",
+          "iso_offset": 133875712
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "481d899c9727efe5e3d8689d28ec1fd07d3468b5f96ed89211da4001ac706a4d",
+      "size": 35271,
+      "family": "mono",
+      "language": "fi",
+      "language_name": "Finnish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/fi/481d899c9727-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Finnish__Fin83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "093c64b877bfad16d5980dd134ac5f9b14b4aa170cac688dcfae8b35d94c281b"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20080908051548/http://education.ti.com/downloads/files/83plus/fin83f.8xk",
+          "url": "https://web.archive.org/web/20080908051548id_/http://education.ti.com/downloads/files/83plus/fin83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564435",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564435"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/fin83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Finnish/Fin83f.8Xk",
+          "iso_offset": 522176512
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/fin83f.8xk",
+          "iso_offset": 244109312
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/fin83f.8xk",
+          "iso_offset": 245694464
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Finnish/Fin83f.8Xk",
+          "iso_offset": 545163264
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/fin83f.8xk",
+          "iso_offset": 133914624
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "7945216bdc40d96a8d2d3fbad51ad36c70a6bee411d3f96b033582ce2b8970eb",
+      "size": 39120,
+      "family": "mono",
+      "language": "fi",
+      "language_name": "Finnish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/fi/7945216bdc40-FLASH__83p__BASECODE__fin__Suomi.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "e23d8844edf1386cf773cd8375c758da1a22c19c1643393b982175f5b4605fc5"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "093c64b877bfad16d5980dd134ac5f9b14b4aa170cac688dcfae8b35d94c281b"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/fin/Suomi.8xk",
+          "iso_offset": 357515264
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "bd526e48264e178c806d532b27da86b80e74419c46583200f49e41b27d7f1bf6",
+      "size": 38552,
+      "family": "mono",
+      "language": "fi",
+      "language_name": "Finnish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/fi/bd526e48264e-Suomi.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "e7d13efd82368332c20659fbe2cf0aba72a5db65e046e08e3fe1dd499291fc69"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Suomi.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f7e758ba1a2d1cdac4acd5e0eb734e2e3e03d1b02af8842522c35b7d14437f7b",
+      "size": 38483,
+      "family": "mono",
+      "language": "fi",
+      "language_name": "Finnish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/fi/f7e758ba1a2d-software__Suomi_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "c078d5612aa09d1db6e61ba5320e848fc27f60f4e2156aed41e2d008803ae628"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407170103/http://education.ti.com/downloads/files/83plus/84Suomi.8xk",
+          "url": "https://web.archive.org/web/20110407170103id_/http://education.ti.com/downloads/files/83plus/84Suomi.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564447",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564447"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Suomi_v240.8xk",
+          "iso_offset": 245628928
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Suomi_v240.8xk",
+          "iso_offset": 247197696
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Suomi_v240.8xk",
+          "iso_offset": 135417856
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "5b1d8f9bcc6b6fee6ec51ef57b098f9d4f63a23747ec8ec087200863cc0aa3fe",
+      "size": 33988,
+      "family": "mono",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/fr/5b1d8f9bcc6b-Fran_c__ais.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "15366d67d18c3d7e965f5c95e42ff42dca543b5d35b3c12efe46a5dcc518bb39"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=75207",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=75207"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "5db2edbbc8d6fc64f0379a09ae605fbedd5eb0ac718cb0677e05c914ec6294cf",
+      "size": 37950,
+      "family": "mono",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/fr/5db2edbbc8d6-FLASH__83p__BASECODE__fra__Francais.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "5165444fa335654b31880d6231820a16e1810177e62a627f0bc4490fd68a4391"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "81ab20dcbfad9701b68caeb135fe6c60b9599b91a91811c85c0a5f6137243546"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/fra/Francais.8xk",
+          "iso_offset": 357607424
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ebbe5051dbe30c73fd7eae71845e486a51c733df504b34e451918e564c70d781",
+      "size": 33970,
+      "family": "mono",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/fr/ebbe5051dbe3-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__French__Fra83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "81ab20dcbfad9701b68caeb135fe6c60b9599b91a91811c85c0a5f6137243546"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564434",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564434"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/fra83f.8xk"
+        },
+        {
+          "source_page": "https://web.archive.org/web/20080606163723/http://education.ti.com:80/downloads/files/83plus/fra83f.8xk",
+          "url": "https://web.archive.org/web/20080606163723id_/http://education.ti.com:80/downloads/files/83plus/fra83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/French/Fra83f.8Xk",
+          "iso_offset": 522213376
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/fra83f.8xk",
+          "iso_offset": 244146176
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/fra83f.8xk",
+          "iso_offset": 245731328
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/French/Fra83f.8Xk",
+          "iso_offset": 545200128
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/fra83f.8xk",
+          "iso_offset": 133951488
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a3bcf2b6a76e878dd0589ae709d4401b39575212039058c0a798e29f5e9f48c9",
+      "size": 37494,
+      "family": "mono",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/fr/a3bcf2b6a76e-Fran_ais.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "c0bdd92f7e43ae7319bf8ddee14885a308606a9259087db921854cd6f5de2831"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Fran%C3%A7ais.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "d09c94b2ab5912beb1ad2633039919c7f0c925355161c85f017a8563945e8829",
+      "size": 37425,
+      "family": "mono",
+      "language": "fr",
+      "language_name": "French",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/fr/d09c94b2ab59-software__Francais_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "bd03cafae9caea189533ce4274def850748c5c62b47da08801e5e1a7db62a7f1"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407170217/http://education.ti.com/downloads/files/83plus/84Francais.8xk",
+          "url": "https://web.archive.org/web/20110407170217id_/http://education.ti.com/downloads/files/83plus/84Francais.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564448",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564448"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Francais_v240.8xk",
+          "iso_offset": 244180992
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Francais_v240.8xk",
+          "iso_offset": 245766144
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Francais_v240.8xk",
+          "iso_offset": 133986304
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "1945343bc0ad7f15acd65138bfcf9862384b53164a6467474df6904865ee6adc",
+      "size": 41132,
+      "family": "mono",
+      "language": "hu",
+      "language_name": "Hungarian",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/hu/1945343bc0ad-FLASH__83p__BASECODE__hun__Magyar.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "b34f9f7cefb5e34f476ce244af6c496ea488a23adc588cb21070ca34c0a0ff45"
+        },
+        {
+          "app_version": "1.00",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "bd8e16a446d995ed775ac90ac7b4e63db40a4a48db9a44eca6d72061a62b3314"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/hun/Magyar.8xk",
+          "iso_offset": 357748736
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "cfe90d37a25c4092f5f8f5af2b2965446b5e1757c4d843612bae78674e4a66aa",
+      "size": 37204,
+      "family": "mono",
+      "language": "hu",
+      "language_name": "Hungarian",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/hu/cfe90d37a25c-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Hungarian__Magyar.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.00",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "bd8e16a446d995ed775ac90ac7b4e63db40a4a48db9a44eca6d72061a62b3314"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Hungarian/Magyar.8Xk",
+          "iso_offset": 522280960
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/magyar.8xk",
+          "iso_offset": 244441088
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/magyar.8xk",
+          "iso_offset": 246030336
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Hungarian/Magyar.8Xk",
+          "iso_offset": 545267712
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/magyar.8xk",
+          "iso_offset": 134250496
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "bec28a4b405563ae959248e9fbc3c1c106196e606cd1bb062e7743647bb60ac3",
+      "size": 33785,
+      "family": "mono",
+      "language": "it",
+      "language_name": "Italian",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/it/bec28a4b4055-FLASH__83p__BASECODE__ita__Italiano.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "b026f9e2b6c2e4c317ac9d557bf792a27cdab9d59b0aae3bca234fde15dc50b5"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "074ded7c97e4a34e7928eb06ffa21e99e5bb22430bd164f7c424a41cc3260824"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/ita/Italiano.8xk",
+          "iso_offset": 357859328
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f61095857c252231a5a4f023f1a2145e8d45113d5f81b69e3dff75d7b4086b5a",
+      "size": 30082,
+      "family": "mono",
+      "language": "it",
+      "language_name": "Italian",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/it/f61095857c25-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Italian__Ita83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "074ded7c97e4a34e7928eb06ffa21e99e5bb22430bd164f7c424a41cc3260824"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407161824/http://education.ti.com/downloads/files/83plus/ita83f.8xk",
+          "url": "https://web.archive.org/web/20110407161824id_/http://education.ti.com/downloads/files/83plus/ita83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564437",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564437"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/ita83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Italian/Ita83f.8Xk",
+          "iso_offset": 522319872
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/ita83f.8xk",
+          "iso_offset": 244312064
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/ita83f.8xk",
+          "iso_offset": 245897216
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Italian/Ita83f.8Xk",
+          "iso_offset": 545306624
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/ita83f.8xk",
+          "iso_offset": 134117376
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "052adec8e4e1a41610ee29a810182d61064bbba55ba4181c72b5eb9515acf762",
+      "size": 33364,
+      "family": "mono",
+      "language": "it",
+      "language_name": "Italian",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/it/052adec8e4e1-Italiano.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "7558bdd028f7274357da7c24a6ab66645205ac66cfc158da783379b5dad962c4"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Italiano.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "de1014c579973294c1a91e78e60bcd272eb85c6ab4e8a5c030a3b904566fa219",
+      "size": 33308,
+      "family": "mono",
+      "language": "it",
+      "language_name": "Italian",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/it/de1014c57997-software__Italiano_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "cbf1b2132938a089ccffb4772064383b73d0a6a857561c675fa3ccdbd82cfb1f"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407170455/http://education.ti.com/downloads/files/83plus/84Italiano.8xk",
+          "url": "https://web.archive.org/web/20110407170455id_/http://education.ti.com/downloads/files/83plus/84Italiano.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564450",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564450"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Italiano_v240.8xk",
+          "iso_offset": 244342784
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Italiano_v240.8xk",
+          "iso_offset": 245927936
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Italiano_v240.8xk",
+          "iso_offset": 134148096
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "abd8e784fe170f588f3292bd2407a55942a6efdd908a68fa4ef46cca6a9189d0",
+      "size": 31930,
+      "family": "mono",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/nl/abd8e784fe17-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Dutch__Dut83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "04757fc2908eac3b548dbea08c0612e9d876deabf90b3e53afaa5827435d54ed"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20080914195417/http://education.ti.com/downloads/files/83plus/dut83f.8xk",
+          "url": "https://web.archive.org/web/20080914195417id_/http://education.ti.com/downloads/files/83plus/dut83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564433",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564433"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/dut83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Dutch/Dut83f.8Xk",
+          "iso_offset": 522143744
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/dut83f.8xk",
+          "iso_offset": 242313216
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/dut83f.8xk",
+          "iso_offset": 242331648
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Dutch/Dut83f.8Xk",
+          "iso_offset": 545122304
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/dut83f.8xk",
+          "iso_offset": 130551808
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ecb7bc955b505e6d1ab69584a9940b38b865a215e7b28066545ac7df0e2a0aab",
+      "size": 35812,
+      "family": "mono",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/nl/ecb7bc955b50-FLASH__83p__BASECODE__nld__Nederlan.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "271c7cbc61214e314f7bd959842d3e01a6363690b9f6ac514575c5e08598165e"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "04757fc2908eac3b548dbea08c0612e9d876deabf90b3e53afaa5827435d54ed"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/nld/Nederlan.8xk",
+          "iso_offset": 357963776
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "a6ac3a3f70c8b6186c586296c82b8e68cf2ff459e79c651a09910a43023a3702",
+      "size": 35038,
+      "family": "mono",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/nl/a6ac3a3f70c8-software__Nederlan_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "bf99ffcfed56a0593dc16a079f87bcf572c6fc23c73fde111e645cca0111bd15"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407165949/http://education.ti.com/downloads/files/83plus/84Nederlan.8xk",
+          "url": "https://web.archive.org/web/20110407165949id_/http://education.ti.com/downloads/files/83plus/84Nederlan.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564446",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564446"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Nederlan_v240.8xk",
+          "iso_offset": 244480000
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Nederlan_v240.8xk",
+          "iso_offset": 246069248
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Nederlan_v240.8xk",
+          "iso_offset": 134289408
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "c39a52031dfb8a4309736d37895fa317ed3c88c13a76af90ddb8d01d0af587cd",
+      "size": 35107,
+      "family": "mono",
+      "language": "nl",
+      "language_name": "Dutch",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/nl/c39a52031dfb-Nederlan.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "73b3cf166ccb89add5fc45751c16efd34c368f989e7acba452e8a6d23a482b85"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Nederlan.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "ce6b755b7272068dabf34bc183adbd662a6d24f06ed6ae6df8acde23bb6e0583",
+      "size": 36112,
+      "family": "mono",
+      "language": "no",
+      "language_name": "Norwegian",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/no/ce6b755b7272-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Norwegian__Nor83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "49dfbacfcb0eeb0c361cf87a9c285459edf846cfb8cecab7a527c6d7ddcf810e"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/no/E2E24A53BEE543038B6A06EB3FFE60ED/83ti83plusoslanguagelocalization",
+          "url": "https://education.ti.com/download/no/ed-tech/E2E24A53BEE543038B6A06EB3FFE60ED/C55B7258E76B4993BCF290503096F471/nor83f.8xk"
+        },
+        {
+          "source_page": "https://web.archive.org/web/20110407162426/http://education.ti.com/downloads/files/83plus/nor83f.8xk",
+          "url": "https://web.archive.org/web/20110407162426id_/http://education.ti.com/downloads/files/83plus/nor83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564438",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564438"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/nor83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Norwegian/Nor83f.8Xk",
+          "iso_offset": 522350592
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/nor83f.8xk",
+          "iso_offset": 244516864
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/nor83f.8xk",
+          "iso_offset": 246106112
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Norwegian/Nor83f.8Xk",
+          "iso_offset": 545337344
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/nor83f.8xk",
+          "iso_offset": 134326272
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "cfef88bdf9a18c3193e2ce8d6ba3eb5187399f9b815a4ad0f6f24fdc850c3d7c",
+      "size": 39926,
+      "family": "mono",
+      "language": "no",
+      "language_name": "Norwegian",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/no/cfef88bdf9a1-FLASH__83p__BASECODE__nor__Norsk.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "4045012df79da838a827236c077cee9ea567d954fbe5d7db7acc7ec31812d5da"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "49dfbacfcb0eeb0c361cf87a9c285459edf846cfb8cecab7a527c6d7ddcf810e"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/nor/Norsk.8xk",
+          "iso_offset": 358068224
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "00b78ebf6ac6124e19cd4ddd4b272e1a61730b731d766bbbc8de2994b6874e96",
+      "size": 39188,
+      "family": "mono",
+      "language": "no",
+      "language_name": "Norwegian",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/no/00b78ebf6ac6-software__Norsk_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "79519a0cf4ce7a8d59479281fbf4dd8fbc9f7012e9efaa86ae395a1964e7c0d3"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407170613/http://education.ti.com/downloads/files/83plus/84Norsk.8xk",
+          "url": "https://web.archive.org/web/20110407170613id_/http://education.ti.com/downloads/files/83plus/84Norsk.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564451",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564451"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Norsk_v240.8xk",
+          "iso_offset": 244553728
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Norsk_v240.8xk",
+          "iso_offset": 246142976
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Norsk_v240.8xk",
+          "iso_offset": 134363136
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "27cfad7e808d2cf74546ac3f775c3cd0546cd86fe00e00870f5339f41daa7f86",
+      "size": 39257,
+      "family": "mono",
+      "language": "no",
+      "language_name": "Norwegian",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/no/27cfad7e808d-Norsk.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "4aaae9578aae5823e929c856ad2085587ba59e943a076bd61e4553fa67e49c4f"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Norsk.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "8b8b7b4a27dad72b97a628b34aa276dd358119778efee81c31d53423f4add4cd",
+      "size": 36313,
+      "family": "mono",
+      "language": "pl",
+      "language_name": "Polish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/pl/8b8b7b4a27da-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Polish__Polski.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.00",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "eac804c707dc69339498399b948b93e6e22f23826a4d574b0332e2558edba17f"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Polish/Polski.8Xk",
+          "iso_offset": 522387456
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/polski.8xk",
+          "iso_offset": 244641792
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/polski.8xk",
+          "iso_offset": 246290432
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Polish/Polski.8Xk",
+          "iso_offset": 545374208
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/polski.8xk",
+          "iso_offset": 134510592
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "9fef7402fe382e85175602258513d004f2459ef3850eec4b424d76d18a914cbf",
+      "size": 40309,
+      "family": "mono",
+      "language": "pl",
+      "language_name": "Polish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/pl/9fef7402fe38-FLASH__83p__BASECODE__pol__Polski.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "e368e1770f491b96d8925a30f437aa1fc1d85cf63db6d3418170a915384b24cd"
+        },
+        {
+          "app_version": "1.00",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "eac804c707dc69339498399b948b93e6e22f23826a4d574b0332e2558edba17f"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/pol/Polski.8xk",
+          "iso_offset": 358191104
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "3d9cc881a9adf618bbea19e262041c99f99597048dbc578a4c6cb671aeb6b564",
+      "size": 33970,
+      "family": "mono",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/pt/3d9cc881a9ad-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Portuguese__Por83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "764ac75a62afc479953bc8a1f3105075a63385a76f15410fadcdd4c408548858"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://education.ti.com/en/software/details/pt/E2E24A53BEE543038B6A06EB3FFE60ED/83ti83plusoslanguagelocalization",
+          "url": "https://education.ti.com/download/pt/ed-tech/E2E24A53BEE543038B6A06EB3FFE60ED/E06EF05B6EA84CE795CF0CA43CA0190D/por83f.8xk"
+        },
+        {
+          "source_page": "https://web.archive.org/web/20110407163021/http://education.ti.com/downloads/files/83plus/por83f.8xk",
+          "url": "https://web.archive.org/web/20110407163021id_/http://education.ti.com/downloads/files/83plus/por83f.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564440",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564440"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/por83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Portuguese/Por83f.8Xk",
+          "iso_offset": 522424320
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/por83f.8xk",
+          "iso_offset": 244758528
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/por83f.8xk",
+          "iso_offset": 246327296
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Portuguese/Por83f.8Xk",
+          "iso_offset": 545411072
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/por83f.8xk",
+          "iso_offset": 134547456
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "9e12ab1cfc97f467be7f82906ed66df9450ecabfd5a5a098554939135ec0689f",
+      "size": 37884,
+      "family": "mono",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/pt/9e12ab1cfc97-FLASH__83p__BASECODE__prt__Portug.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "a75e28a55f2f0916d820e24e65633340353cb0a41642869499bdc0cae8d79af6"
+        },
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "764ac75a62afc479953bc8a1f3105075a63385a76f15410fadcdd4c408548858"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/prt/Portug.8xk",
+          "iso_offset": 358301696
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "7344437ceb7efd0928ad08264e78a16dad6b65207e0086d517480570829d8fd6",
+      "size": 37101,
+      "family": "mono",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/pt/7344437ceb7e-software__Portug_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "7ce0915ac1863edb3f11f37e206218fced59693a3ef1ac477de2fad67ba95c1d"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407170720/http://education.ti.com/downloads/files/83plus/84Portug.8xk",
+          "url": "https://web.archive.org/web/20110407170720id_/http://education.ti.com/downloads/files/83plus/84Portug.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564452",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564452"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Portug_v240.8xk",
+          "iso_offset": 244793344
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Portug_v240.8xk",
+          "iso_offset": 246362112
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Portug_v240.8xk",
+          "iso_offset": 134582272
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "9e6914d23fdefe81442e52d9002fda43667eec3ba5be1d6f3922f2830f6b4efe",
+      "size": 37170,
+      "family": "mono",
+      "language": "pt",
+      "language_name": "Portuguese",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/pt/9e6914d23fde-Portug.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "d61b32646ca6f98c98e14abbdad111752d4672d40e4031e33e88a1c6ac9b682a"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Portug.8xk"
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "503ce280371be8cbd78d4d9ad29ce7804e40ad56ea4ed8eb1e1cdaff6906bd75",
+      "size": 38601,
+      "family": "mono",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/sv/503ce280371b-FLASH__83p__BASECODE__swe__Svenska.8xk",
+      "app_header_index": 1,
+      "headers": [
+        {
+          "app_version": null,
+          "version_evidence": null,
+          "decoded_payload_sha256": "877f16dfab67d0e7d35635cc74f493abdd828aa7acb5541a02043962cce8f180"
+        },
+        {
+          "app_version": "1.01",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "81ce57f23fe06ab4eb138f9e7907f55e4684b369c88a8714ea2b929448678110"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/TIResource2.2",
+          "url": "https://archive.org/download/TIResource2.2/2.2.iso",
+          "archive_member": "/FLASH/83p/BASECODE/swe/Svenska.8xk",
+          "iso_offset": 358430720
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "7b5a4a1c696b2cc7ece011abbc56d8b59f1d2f809c1c2891826ee6927f7454ad",
+      "size": 34779,
+      "family": "mono",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-83 Plus",
+      "file": "apps/mono/sv/7b5a4a1c696b-data__Handheld_Software_Apps__Select_Apps__Languages__Language_Localization__Swedish__Swe83f.8Xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "1.02",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "cb8277d4766c8f5b688984b55a2922d95e0af82c8e1ce7311ddfc6ca36885359"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564442",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564442"
+        },
+        {
+          "source_page": "https://archive.org/details/ti8x-apps",
+          "url": "https://archive.org/download/ti8x-apps/OS%20Localization/swe83f.8xk"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.2",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.2/83P-84PCDv1.2.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Swedish/Swe83f.8Xk",
+          "iso_offset": 522493952
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/swe83f.8xk",
+          "iso_offset": 245706752
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/swe83f.8xk",
+          "iso_offset": 247275520
+        },
+        {
+          "source_page": "https://archive.org/details/texas-instruments-graphing-product-cd-1.1",
+          "url": "https://archive.org/download/texas-instruments-graphing-product-cd-1.1/Texas%20Instruments%20Graphing%20Product%20CD%201.1.iso",
+          "archive_member": "/data/Handheld Software Apps/Select Apps/Languages/Language Localization/Swedish/Swe83f.8Xk",
+          "iso_offset": 545488896
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/swe83f.8xk",
+          "iso_offset": 135495680
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "bcf4526287c38fd091578766c114cb186af9d6cc185953634c4095efb33505ec",
+      "size": 37855,
+      "family": "mono",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/sv/bcf4526287c3-software__Svenska_v240.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "93ad6f4b939477b4d3aa42f6b4cb8529911353395ff558c56c68fc8309b532fc"
+        }
+      ],
+      "source_version_labels": [
+        "2.40"
+      ],
+      "sources": [
+        {
+          "source_page": "https://web.archive.org/web/20110407171003/http://education.ti.com/downloads/files/83plus/84Svenska.8xk",
+          "url": "https://web.archive.org/web/20110407171003id_/http://education.ti.com/downloads/files/83plus/84Svenska.8xk"
+        },
+        {
+          "source_page": "https://tiplanet.org/forum/archives_voir.php?id=3564455",
+          "url": "https://tiplanet.org/modules/archives/download.php?id=3564455"
+        },
+        {
+          "source_page": "https://archive.org/details/83-p-84-pcdv-1.3",
+          "url": "https://archive.org/download/83-p-84-pcdv-1.3/83P-84PCDv1.3.iso",
+          "archive_member": "/software/Svenska_v240.8xk",
+          "iso_offset": 245667840
+        },
+        {
+          "source_page": "https://archive.org/details/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage",
+          "url": "https://archive.org/download/Texas_Instruments_TI-83_Plus_Product_CD_v1.4.1_2008_Multilanguage/TexasInstruments-TI-83Plus-ProductCD-v1.4.1.iso",
+          "archive_member": "/software/Svenska_v240.8xk",
+          "iso_offset": 247236608
+        },
+        {
+          "source_page": "https://archive.org/details/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5",
+          "url": "https://archive.org/download/ti-83-plus-and-ti-84-plus-family-texas-instruments-1.5/TI-83_TI-84Plus_Family_1.5.iso",
+          "archive_member": "/software/Svenska_v240.8xk",
+          "iso_offset": 135456768
+        }
+      ],
+      "category": "os-localization"
+    },
+    {
+      "sha256": "f288d13bbba09a1aca55651c02d9ba8b1082848c24301e38793f57fe40e5c8cf",
+      "size": 37911,
+      "family": "mono",
+      "language": "sv",
+      "language_name": "Swedish",
+      "target_model": "TI-84 Plus",
+      "file": "apps/mono/sv/f288d13bbba0-Svenska.8xk",
+      "app_header_index": 0,
+      "headers": [
+        {
+          "app_version": "2.40",
+          "version_evidence": "embedded display string in decoded Intel HEX app payload",
+          "decoded_payload_sha256": "9a745d7be77d662e1eb5e1dd0a4be40c2863e8c456db12d2d1e9e16fac3777e7"
+        }
+      ],
+      "source_version_labels": [],
+      "sources": [
+        {
+          "source_page": "https://archive.org/details/nspire-84-apps",
+          "url": "https://archive.org/download/nspire-84-apps/Svenska.8xk"
+        }
+      ],
+      "category": "os-localization"
+    }
+  ]
+}

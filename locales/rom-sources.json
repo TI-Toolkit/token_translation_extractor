@@ -1,0 +1,41 @@
+{
+  "description": "User-supplied TI-83-family ROM inputs; filenames are local input hints, SHA-256 identifies exact content. No copyrighted ROM bytes are distributed.",
+  "roms": [
+    {
+      "filename": "TI-83_v1.10.rom",
+      "model": "TI-83",
+      "os_version": "1.10",
+      "embedded_version": "1.10",
+      "language": "en",
+      "size": 262144,
+      "sha256": "e399506c8c473433c892be26a6ff0ac3226cb213ed0fae55c360a861f3dc4b3a"
+    },
+    {
+      "filename": "TI-83_82Stats_v1.11.rom",
+      "model": "TI-82ST",
+      "os_version": "1.11",
+      "embedded_version": "1.11",
+      "language": "en",
+      "size": 262144,
+      "sha256": "2bb11e9964c3647c667724385a73a742d84f37ed4de69365d069746add4dfa17"
+    },
+    {
+      "filename": "TI-83_82StatsFr_v1.11fr7.rom",
+      "model": "TI-82ST.fr",
+      "os_version": "1.11fr7",
+      "embedded_version": "1.11fr7",
+      "language": "fr",
+      "size": 262144,
+      "sha256": "a01ca3474537b32d3e461c85baab043bb50399e15961428319d2fc8cde593f3f"
+    },
+    {
+      "filename": "TI-83_76fr_v1.00fr5.rom",
+      "model": "TI-76.fr",
+      "os_version": "1.00fr5",
+      "embedded_version": "1.00fr5",
+      "language": "fr",
+      "size": 262144,
+      "sha256": "91c260591ed29c36831491a85fab0115752075c726467382ec3ac44f9cbeda4e"
+    }
+  ]
+}
